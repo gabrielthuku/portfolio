@@ -1,0 +1,13 @@
+.background {
+  background-image: url(../images/gabriel1.jpg);
+  width: 1500px;
+  height: 800px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.start h1 {
+  font-style: oblique;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+}
