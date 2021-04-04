@@ -1,15 +1,44 @@
 
 .background {
-  background-image: url(../images/coke1.jpg);
+  background-image: url(../images/viena.jpg);
   width: 1500px;
   height: 600px;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
+
 .start h1 {
   font-style: italic;
-  color: aqua;
-  font-size: 150px;
+  color: rgb(0, 0, 0);
+  font-size: 40px;
   text-align: center;
+  
+}
+.start p {
+  font-size: 50px;
+  color: white;
+  font-style: oblique;
+  text-align: center;
+}
+.intro  {
+  background-color: wheat;
+}
+.about h2 {
+font-style: normal;
+font-size: 90px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
