@@ -15,18 +15,17 @@
   text-align: center;
   
 }
-.start p {
-  font-size: 50px;
-  color: white;
-  font-style: oblique;
-  text-align: center;
-}
-.intro  {
-  background-color: wheat;
-}
+
+
 .about h2 {
-font-style: normal;
-font-size: 90px;
+    font-size: 50px;
+    color: white;
+    font-style: oblique;
+    text-align: center;
+}
+
+
+
 
 
 
