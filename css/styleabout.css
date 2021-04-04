@@ -7,11 +7,29 @@
 }
 .start h1 {
   font-style: oblique;
-  color: white;
+  color: aqua;
   font-size: 60px;
   text-align: center;
 }
 .start p {
   font-style: italic;
-  color: white;
+  color: rgb(255, 2, 2);
+}
+.loves p {
+  font-style: italic;
+  color: rgb(250, 1, 1);
+}
+.loves h2 {
+  font-style: oblique;
+  font-size: 40px;
+  color: aqua;
+}
+.hobbies h3 {
+  font-size: 40px;
+  font-style: oblique;
+  color: aqua;
+}
+.hobbies p {
+  font-style: italic;
+  color: rgb(255, 0, 0);
 }
