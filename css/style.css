@@ -1,3 +1,15 @@
-body {
-  background-image: url();
+
+.background {
+  background-image: url(../images/coke1.jpg);
+  width: 1500px;
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.start h1 {
+  font-style: italic;
+  color: aqua;
+  font-size: 150px;
+  text-align: center;
 }
