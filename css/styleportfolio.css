@@ -2,7 +2,18 @@
 .background {
   background-image: url(../images/mind2.jpeg);
   width: 1500px;
-  height: 650px;
+  height: 850px;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.portfolio h1 {
+  color: rgb(255, 0, 0);
+  font-style: oblique;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.portfolio p {
+  font-style: italic;
+  color: cyan;
 }
