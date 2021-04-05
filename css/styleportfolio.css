@@ -17,3 +17,9 @@
   font-style: italic;
   color: cyan;
 }
+
+.links {
+  color: blue;
+  font-style: italic;
+  text-align: left;
+}

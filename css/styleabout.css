@@ -13,16 +13,20 @@
 }
 .start p {
   font-style: italic;
-  color: rgb(255, 2, 2);
+  color: rgb(252, 252, 252);
+  background-color: gray;
 }
 .loves p {
   font-style: italic;
-  color: rgb(250, 1, 1);
+  color: rgb(255, 255, 255);
+  background-color: gray;
+  padding: 5px;
 }
 .loves h2 {
   font-style: oblique;
   font-size: 40px;
   color: aqua;
+  padding: 5px;
 }
 .hobbies h3 {
   font-size: 40px;
@@ -31,9 +35,20 @@
 }
 .hobbies p {
   font-style: italic;
-  color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+  background-color: gray;
 }
-.loves h2 li {
+.loves h2 ul {
   font-style: italic;
-  color: rgb(255, 0,0);
+  color: rgb(255, 255, 255);
+  background-color: gray;
+  width: auto;
+}
+.list ol {
+  color: white;
+  background: gray;
+}
+.ulist ul {
+  color: white;
+  background: gray
 }
